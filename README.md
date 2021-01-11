@@ -2,7 +2,7 @@
 
 A meal planner that allows you to schedule and plan out your meals. Through this application, users can search for meals that are stored on therecipedb and add their own custom meals to the recipe database. 
 
-! [Alt Text] (https://drive.google.com/file/d/1kdZINY7uxrfx8UqLNrBMpcrEG9pOoObd/view?usp=sharing)
+! [Alt Text] (https://media.giphy.com/media/3FVlmtGpZF9xddi3h2/giphy.gif)
 
 ## Tech/framework used
 Frontend UI built with React and Redux. The user authentication and data is handled through a Node.js server using MongoDB and Firebase. 
